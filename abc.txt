@@ -1,1 +1,5 @@
+En este TXT dejo en constancia de que todo este repositorio se utiliza unicamente para pruebas y para
+nada como algo definitivo.
+Espero sea de mi agrado poder ver mi progreso.
+Firma: Daniel Bobadilla
 Aprendiendo a subir archivos a git :)
